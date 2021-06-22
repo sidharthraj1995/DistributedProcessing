@@ -1,7 +1,4 @@
 # Name - Sidharth Raj######
-# Student Id - 1001548027##
-# LAB - 2 SERVER  #########
-###########################
 # importing all the necessary libraries
 # socket library is used to create and handle various sockets
 # Threading library is used to create threads which help in multi-threading
