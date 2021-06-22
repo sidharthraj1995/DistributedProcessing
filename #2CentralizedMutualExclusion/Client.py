@@ -1,7 +1,4 @@
 # Name - Sidharth Raj#####
-# Student Id - 1001548027#
-# LAB - 2 CLIENT  ########
-##########################
 # importing all the necessary libraries
 # socket library is used to create and handle various sockets
 # easygui library is used to create gui
