@@ -1,4 +1,5 @@
-**Client**
+*Client*
+
 The client executes the following sequence of steps:
 1. Connect to the server via a socket.
 2. Provide the server with a unique user name.
@@ -11,7 +12,8 @@ The client executes the following sequence of steps:
 7. Repeat at step 3 until the process is killed by the user.
 
 
-**Server**
+*Server*
+
 The server supports three concurrently connected clients and displays a list of
 which clients are connected in real-time. The server then executes the following sequence
 of steps:
